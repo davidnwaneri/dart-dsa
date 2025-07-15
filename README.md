@@ -46,8 +46,9 @@ bool isMultiple(int n, {required int of}) => n % of == 0;
 ## Maximum sum of Subarray of size K
 
 You are given an array of integers `arr` and an integer `k`. Find the maximum sum of any contiguous subarray of size `k`.
-Example:
-Input: arr = [2, 1, 5, 1, 3, 2], k = 3
+
+Example:\
+Input: arr = [2, 1, 5, 1, 3, 2], k = 3\
 Output: 9
 
 Explanation:
